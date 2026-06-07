@@ -46,16 +46,14 @@ This project demonstrates practical applications of:
 ```bash
 stock-price-prediction-xgboost/
 │
-├── main.py
+├── Stock_price_prediction.py
 ├── requirements.txt
 ├── README.md
-├── .gitignore
 │
 ├── outputs/
-│   ├── charts/
-│   └── forecasts/
-│
-└── src/
+    ├── charts/
+    └── forecasts/
+
 ```
 
 ---
