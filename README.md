@@ -1,4 +1,4 @@
-# stock-price-prediction-xgboost
+<img width="81" height="25" alt="image" src="https://github.com/user-attachments/assets/bb585666-eaec-4d23-a4db-30bf91184afe" /># stock-price-prediction-xgboost
 Machine Learning project for predicting future stock prices using technical indicators and the XGBoost Regression algorithm.
 
 # 🚀 Overview
@@ -176,9 +176,9 @@ The model performance is evaluated using:
 
 | Day    | Predicted Price |
 | ------ | --------------- |
-| Day +1 | ₹1327           |
-| Day +2 | ₹1332           |
-| Day +3 | ₹1341           |
+| Day +1 | ₹1307           |
+| Day +2 | ₹1300           |
+| Day +3 | ₹1305           |
 
 ---
 
